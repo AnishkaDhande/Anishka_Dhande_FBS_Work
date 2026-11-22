@@ -7,7 +7,6 @@ public class Stud1 {
 	String Name;
 
 	public Stud1(int rollno, String name) {
-		super();
 		this.rollno = rollno;
 		Name = name;
 	}
